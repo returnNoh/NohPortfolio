@@ -5,15 +5,19 @@
 
 회원가입(smtp 이메일보내기를 이용한 인증)
 
+중복값찾기(ajax)
+
 로그인(세션관리)
 
 로컬데이터베이스()
+
+구글 맵 (api)
 
 네이버로그인 // 구현중
 
 디스코드 api를 이용한 채팅창 //구현중
 
-빗썸 api를 이용한 원하는 코인의 거래정보 불러오기
+빗썸 api를 이용한 원하는 코인의 거래정보 불러오기 (json)
 
 빗썸 api를 이용한 코인거래 //구현중
 
@@ -26,23 +30,6 @@
 
 웹 프로젝트 #TodayLunch 입니다.
           
-
-본 깃허브 작성자 returnNoh가 맡은 부분입니다.
-
-###### 프론트엔드
-- [템플레이트번역 & 템플레이트 활용](WebContent/main.jsp)
-
-###### 백엔드 & 프론트엔드
-- [회원가입(이메일인증)](WebContent/Register)
-- [아이디,비밀번호 찾기](WebContent/Login)
-- [식권 구매&사용](WebContent/Mypage_p)
-- [관리자 페이지](WebContent/Admin)
-- [공지사항(ajax)](WebContent/Admin/notice.jsp)
-- [구글맵 api](WebContent/map.jsp)
-
-###### DB 설계
-- [Exerd](TodayLunch.exerd)
-
 
 
 ### [개인프로젝트 BookRent](https://github.com/returnNoh/BooksRent)
