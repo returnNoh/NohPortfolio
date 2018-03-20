@@ -30,6 +30,8 @@ JavaScript
 JQuery (이벤트처리,슬라이드,modal,ajax,json 등)
 Bootstrap(공간활용(그리드),기본디자인)
 
+</hr>
+
 
 ### [팀프로젝트 TodayLunch](https://github.com/returnNoh/TodayLunch)
 
