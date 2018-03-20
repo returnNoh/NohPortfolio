@@ -1,5 +1,5 @@
 
-##### 이름 노인욱 닉네임 returnNoh의 포트폴리오 입니다
+##### 노인욱 : returnNoh의 포트폴리오 메인입니다. 
 ## 기능(백엔드)
 자유게시판(모델1부터 mvc - 스프링까지)
 
@@ -30,7 +30,7 @@ JavaScript
 JQuery (이벤트처리,슬라이드,modal,ajax,json 등)
 Bootstrap(공간활용(그리드),기본디자인)
 
-</hr>
+<hr/>
 
 
 ### [팀프로젝트 TodayLunch](https://github.com/returnNoh/TodayLunch)
