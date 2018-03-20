@@ -1,6 +1,6 @@
-# NohPortfol
-이름 노인욱 닉네임 returnNoh의 포트폴리오 입니다
 
+##### 이름 노인욱 닉네임 returnNoh의 포트폴리오 입니다
+## 기능(백엔드)
 자유게시판(모델1부터 mvc - 스프링까지)
 
 회원가입(smtp 이메일보내기를 이용한 인증)
@@ -23,7 +23,12 @@
 
 빗썸 api를 이용한 코인거래 //구현중
 
+## 디자인(프론트엔드)
 
+html,css 기초(태그,돔,스타일)
+JavaScript
+JQuery (이벤트처리,슬라이드,modal,ajax,json 등)
+Bootstrap(공간활용(그리드),기본디자인)
 
 
 ### [팀프로젝트 TodayLunch](https://github.com/returnNoh/TodayLunch)
