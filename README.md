@@ -15,13 +15,13 @@
 
 구글 맵 (api)
 
-네이버로그인 // 구현중
-
-디스코드 api를 이용한 채팅창 //구현중
-
 빗썸 api를 이용한 원하는 코인의 거래정보 불러오기 (json)
 
-빗썸 api를 이용한 코인거래 //구현중
+네이버로그인 // 구현예정
+
+디스코드 api를 이용한 채팅창 //구현예정
+
+빗썸 api를 이용한 코인거래 //구현예정
 
 ## 디자인(프론트엔드)
 
@@ -29,8 +29,10 @@ html,css 기초(태그,돔,스타일)
 JavaScript
 JQuery (이벤트처리,슬라이드,modal,ajax,json 등)
 Bootstrap(공간활용(그리드),기본디자인)
+anguler,react // 배울예정 
 
 <hr/>
+
 
 
 ### [팀프로젝트 TodayLunch](https://github.com/returnNoh/TodayLunch)
