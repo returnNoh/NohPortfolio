@@ -37,9 +37,9 @@
 
 -Bootstrap(공간활용(그리드),기본디자인)
 
--anguler( 기본구조 , Promise(ajax같은것)를 이용한 restful api 이용)
+-anguler( 기본구조 , typeScript , ECMAscript , Promise(ajax같은것)를 이용한 restful api 이용)
 
--react
+-react(배우는중)
 
 <hr/>
 
