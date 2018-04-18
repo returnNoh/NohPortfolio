@@ -65,7 +65,7 @@ DB설계 , 프론트엔드(부트스트랩,jquery) , 모델2 , 스프링 까지 
 
 
 
-### ~[개인프로젝트 CoinTest](https://github.com/returnNoh/cointest)~ 프로젝트 X 예제 O
+### ~[개인프로젝트 CoinTest](https://github.com/returnNoh/cointest)~ 
 
 ~jQuery를 배우고  json 파일을 사용하는 방법을 배운 직후
 평소 관심있던 블록체인기술의 대표적인 가상화폐의 거래소인 빗썸의 화폐정보를 공용 api로 불러올 때
