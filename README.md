@@ -4,25 +4,41 @@
 
 ## 기능(백엔드)
 -자유게시판(모델1부터 mvc - 스프링까지)
+
 -회원가입(smtp 이메일보내기를 이용한 인증)
+
 -회원관리(update,delete,query)
+
 -중복값찾기(ajax)
+
 -로그인(세션관리)
+
 -로컬데이터베이스(크롬 로컬데이터베이스)
+
 -구글 맵 (api)
+
 -빗썸 api를 이용한 원하는 코인의 거래정보 불러오기 (json)
+
 -DB에 저장된 데이터를 json으로 불러오는 restful api 
+
 -네이버로그인 // 구현예정
+
 -디스코드 api를 이용한 채팅창 //구현예정
+
 -빗썸 api를 이용한 코인거래 //구현예정
 
 ## 디자인(프론트엔드)
 
 -html,css 기초(태그,돔,스타일)
+
 -JavaScript
+
 -JQuery (이벤트처리,슬라이드,modal,ajax,json 등) (jquery를 이용한 무한스크롤 구현)
+
 -Bootstrap(공간활용(그리드),기본디자인)
+
 -anguler( 기본구조 , Promise(ajax같은것)를 이용한 restful api 이용)
+
 -react
 
 <hr/>
