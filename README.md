@@ -43,6 +43,7 @@
 ## 프레젠테이션(프레지)
 - [팀프로젝트 TodayLunch의 Spring 환경설정](https://prezi.com/view/Z9vrQ8WIKaw4OIbVlLWX/)
 - [Spring 에서의 JSON활용(Restful API)](https://prezi.com/view/f7QMlmkAhAjYQpH91G3v/)
+- [개인프로젝트 BooksRent 기능소개](https://prezi.com/view/Mri7Cyf39N5Zjk7mQ6yy/)
 
 <hr/>
 
