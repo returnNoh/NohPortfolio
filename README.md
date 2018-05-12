@@ -1,6 +1,7 @@
 
 ##### 노인욱 : returnNoh의 포트폴리오 메인입니다. 
 #### 개발환경 운영체제 : 나홀로 맥 os (OSX)  , 기종 명 : MacBook Pro (Retina, 15-inch, Late 2013)
+### 익숙하지 않아서 github는 소스코드와 간략하게 기능설명이 적혀있고 프레지에 스샷들이 첨부되어있습니다.
 
 ## 기능(백엔드)
 -자유게시판(모델1부터 mvc - 스프링까지)
@@ -36,9 +37,9 @@
 
 -Bootstrap(공간활용(그리드),기본디자인)
 
--anguler( 기본구조 , typeScript , ECMAscript , Promise(ajax같은것)를 이용한 restful api 이용)
+-anguler( 기본구조 , typeScript  , Promise(ajax기능)를 이용한 rest api 이용)
 
--react(배우는중)
+-react(기본구조 , ECMAscript , WEBPACK )
 
 ## 프레젠테이션(프레지)
 - [팀프로젝트 TodayLunch의 Spring 환경설정](https://prezi.com/view/Z9vrQ8WIKaw4OIbVlLWX/)
