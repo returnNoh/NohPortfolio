@@ -78,8 +78,9 @@ DB설계 , 프론트엔드(부트스트랩,jquery) , 모델2 , 스프링 까지 
 
 ### 공부중
 
-현재 aws를 독학하는중이며 ec2를 이용하여 가상 리눅스서버를 구축하고 톰캣서버를 가동하는데까지 성공  
-http://ec2-13-124-116-220.ap-northeast-2.compute.amazonaws.com:8080/   
+현재 aws를 독학하는중이며 ec2를 이용하여 가상 리눅스서버를 구축하고 톰캣서버를 가동하는데까지 성공 
+http://ec2-13-124-116-220.ap-northeast-2.compute.amazonaws.com 
+http://ec2-13-124-116-220.ap-northeast-2.compute.amazonaws.com:8080/    : 톰캣서버   
 
 예정 - 학원에서 진행한 프로젝트를 배포 + aws db service 사용
 
