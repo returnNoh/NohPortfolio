@@ -1,5 +1,5 @@
 
-##### 노인욱 : returnNoh의 포트폴리오 메인입니다. 개인이력서는  https://docs.google.com/document/d/1com2NMFOJwcVO-ZI-kDPrWMpsFFY8mO9h9E0-xbwGuQ/edit?usp=sharing를 참고해주시기바랍니다.
+##### 노인욱 : returnNoh의 포트폴리오 메인입니다. 
 #### 개발환경 운영체제 : 나홀로 맥 os (OSX)  , 기종 명 : MacBook Pro (Retina, 15-inch, Late 2013)
 
 ##### 드롭다운문법이 익숙하지 않아서 github는 소스코드와 간략하게 기능설명이 적혀있고 프레지에 스샷들이 첨부되어있습니다.
@@ -69,6 +69,8 @@ DB설계 , 프론트엔드(부트스트랩,jquery) , 모델2 , 스프링 까지 
 
 
 <hr/>
+
+### 이력서는 https://docs.google.com/document/d/1com2NMFOJwcVO-ZI-kDPrWMpsFFY8mO9h9E0-xbwGuQ/edit?usp=sharing 를 참고해주시기바랍니다.
 
 ### 경력사항
 비맵코리아 2018.06~2018.07  
