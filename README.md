@@ -70,7 +70,7 @@ DB설계 , 프론트엔드(부트스트랩,jquery) , 모델2 , 스프링 까지 
 
 <hr/>
 
-###### 이력서는 https://docs.google.com/document/d/1com2NMFOJwcVO-ZI-kDPrWMpsFFY8mO9h9E0-xbwGuQ/edit?usp=sharing 를 참고해주시기바랍니다.
+###### 이력서링크:https://docs.google.com/document/d/1com2NMFOJwcVO-ZI-kDPrWMpsFFY8mO9h9E0-xbwGuQ/edit?usp=sharing 
 
 ### 경력사항
 비맵코리아 2018.06~2018.07  
