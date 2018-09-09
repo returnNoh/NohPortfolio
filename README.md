@@ -85,7 +85,7 @@ http://ec2-13-124-116-220.ap-northeast-2.compute.amazonaws.com  :리눅스서버
   
 http://ec2-13-124-116-220.ap-northeast-2.compute.amazonaws.com:8080/TodayLunch  :학원프로젝트 DB 연동 성공  
   
-예전에 썼던 DB가 소실되었음
+예전에 썼던 DB가 소실되어서 원래 기능을 하지는 않습니다. 
 
 
 
