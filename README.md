@@ -72,10 +72,6 @@ DB설계 , 프론트엔드(부트스트랩,jquery) , 모델2 , 스프링 까지 
 
 ###### 이력서링크:https://docs.google.com/document/d/1com2NMFOJwcVO-ZI-kDPrWMpsFFY8mO9h9E0-xbwGuQ/edit?usp=sharing 
 
-### 경력사항
-비맵코리아 2018.06~2018.07  
-근무중 본인을 제외한 다른 모든 개발자가 임금체불로 퇴사하고 본인또한 체불되었기에 퇴사하였습니다.
-
 <hr/>
 
 ### 공부중
