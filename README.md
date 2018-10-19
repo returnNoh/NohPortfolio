@@ -67,11 +67,6 @@ DB설계 , 프론트엔드(부트스트랩,jquery) , 모델2 , 스프링 까지 
 여유가 생겨 판매기능, 상품리스트 , 검색 등 여러가지 기능을 추가하여 다시 건드린 프로젝트입니다.
 
 
-
-<hr/>
-
-###### 이력서링크:https://docs.google.com/document/d/1com2NMFOJwcVO-ZI-kDPrWMpsFFY8mO9h9E0-xbwGuQ/edit?usp=sharing 
-
 <hr/>
 
 ### 공부중
