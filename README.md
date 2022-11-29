@@ -77,11 +77,11 @@ DB설계 , 프론트엔드(부트스트랩,jquery) , 모델2 , 스프링 까지 
 
 ### 전에 했던 것?
 
-~~aws를 독학하여 ec2를 이용하여 가상 리눅스서버를 구축하고 톰캣서버를 가동하는데까지 성공 
-http://ec2-13-124-116-220.ap-northeast-2.compute.amazonaws.com  :리눅스서버  
-http://ec2-13-124-116-220.ap-northeast-2.compute.amazonaws.com:8080/TodayLunch  :학원프로젝트 DB 연동 성공  
-예전에 썼던 DB가 소실되어서 테이블 구조가 달라 원래 기능을 하지는 않습니다.  (DB연동은 되어있음)
-~~
+aws를 독학하여 ec2를 이용하여 가상 리눅스서버를 구축하고 톰캣서버를 가동하는데까지 성공 
+~~http://ec2-13-124-116-220.ap-northeast-2.compute.amazonaws.com  :리눅스서버  
+~~http://ec2-13-124-116-220.ap-northeast-2.compute.amazonaws.com:8080/TodayLunch  :학원프로젝트 DB 연동 성공  
+~~예전에 썼던 DB가 소실되어서 테이블 구조가 달라 원래 기능을 하지는 않습니다. 
+
 
 
 무료기간이 끝남에 따라 aws 계정을 삭제했습니다.
