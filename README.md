@@ -43,7 +43,7 @@
 - [팀프로젝트 TodayLunch의 Spring 환경설정](https://prezi.com/view/Z9vrQ8WIKaw4OIbVlLWX/)
 - [Spring 에서의 JSON활용(Restful API)](https://prezi.com/view/f7QMlmkAhAjYQpH91G3v/)
 - [개인프로젝트 BooksRent 기능소개](https://prezi.com/view/Mri7Cyf39N5Zjk7mQ6yy/)
-- [팀프로젝트 TodayLunch 마지막 발표](https://prezi.com/ypdtkey_ptz9/presentation)
+- ~~[팀프로젝트 TodayLunch 마지막 발표](https://prezi.com/ypdtkey_ptz9/presentation)~~ (해당 ppt는 만료되어 볼 수 없게되었습니다)
 
 <hr/
 
